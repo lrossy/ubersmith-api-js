@@ -1,0 +1,22 @@
+{
+  "name": "ubersmith-api",
+  "version": "0.0.1",
+  "description": "Ubersmith API NodeJS library",
+  "main": "./lib",
+  "scripts": {
+    "dev": "nodemon examples/index.js"
+  },
+  "author": "GPU One",
+  "contributors": [
+    {
+      "email": "lrossy@gmail.com",
+      "name": "Luke Rossy"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "winston": "^3.0.0"
+  }
+}
