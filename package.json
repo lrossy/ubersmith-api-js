@@ -1,5 +1,5 @@
 {
-  "name": "ubersmith-api",
+  "name": "ubersmith-api-js",
   "version": "0.0.1",
   "description": "Ubersmith API NodeJS library",
   "main": "./lib",
